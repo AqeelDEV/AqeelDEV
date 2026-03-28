@@ -78,12 +78,6 @@
 - AI recommendation engine with **Python & Scikit-learn** for personalized product suggestions
 - Sales & inventory analytics dashboard with **Pandas** for demand forecasting & business insights
 
-### 📈 [Traffic Pulse](https://github.com/AqeelDEV/TrafficPulse)
-> Intelligent road analytics dashboard for processing high-volume traffic data
-
-- Data analytics tool in **Python** with strict validation algorithms for CSV datasets
-- Dynamic GUI with **Tkinter** rendering real-time histograms for vehicle flow rates & volume metrics
-
 ### 🔍 [AI Website Audit Tool](https://github.com/AqeelDEV/website-audit-tool)
 > Next.js 14 app powered by OpenRouter (Gemini) for intelligent site analysis
 
@@ -98,9 +92,20 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AqeelDEV&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF87&icon_color=00FF87&text_color=ffffff" width="420" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AqeelDEV&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF87&text_color=ffffff" width="380" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AqeelDEV&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF87&ring=00FF87&fire=00FF87&currStreakLabel=00FF87" width="420" />
+
+### Languages I Work With
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
