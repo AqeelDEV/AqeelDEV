@@ -12,16 +12,15 @@
 
 > Second-year CS undergrad at IIT Colombo · Full-Stack Developer · AI/ML Enthusiast · Building civic tech for Sri Lanka 🇱🇰
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AqeelDEV&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF87&icon_color=00FF87&text_color=ffffff" width="420" />
-
 - 🔭 I'm currently working on **SafeLanka** — a Flutter civic safety app launching on Google Play
+- 💼 Freelance Full-Stack Developer at **TotalTechSolutions** — building an e-commerce platform with AI-powered recommendations
 - 👥 I'm looking to collaborate on **AI/ML projects and open-source full-stack apps**
 - 🤝 I'm looking for help with **Software Engineering & AI/ML internship opportunities**
-- 🌱 I'm currently learning **Deep Learning with PyTorch and Andrew Ng's specializations**
-- 💬 Ask me about **Flutter, NestJS, Next.js, CI/CD pipelines, or MMA fighting**
-- ⚡ Fun fact: **I'm a competitive MMA fighter who speaks 4 languages and codes between training sessions**
-
-<br clear="right"/>
+- 🌱 Currently pursuing a **Professional Certificate in AI** at IIT & learning **Deep Learning with PyTorch**
+- 🏛️ **IEEE Member** — Computer Society & Robotics and Automation Society
+- 🌍 Fluent in **English, Sinhala & Tamil** · Learning Malay & Arabic
+- 💬 Ask me about **Flutter, NestJS, Next.js, or MMA fighting**
+- ⚡ Fun fact: **3 years of competitive MMA & K1, 2x Bronze Medal swimmer, and I code between training sessions**
 
 ---
 
@@ -72,6 +71,19 @@
 - PayHere payment gateway with tokenization & CI/CD via GitHub Actions + Railway
 - 17-entity MySQL database with TypeORM · Trilingual SMS notifications
 
+### 💼 [TotalTechSolutions E-Commerce Platform](https://github.com/AqeelDEV)
+> Full-stack e-commerce platform with AI-powered product recommendations — Freelance Project
+
+- Responsive product catalog with category filtering, shopping cart & dynamic pages using **React + Next.js**
+- AI recommendation engine with **Python & Scikit-learn** for personalized product suggestions
+- Sales & inventory analytics dashboard with **Pandas** for demand forecasting & business insights
+
+### 📈 [Traffic Pulse](https://github.com/AqeelDEV/TrafficPulse)
+> Intelligent road analytics dashboard for processing high-volume traffic data
+
+- Data analytics tool in **Python** with strict validation algorithms for CSV datasets
+- Dynamic GUI with **Tkinter** rendering real-time histograms for vehicle flow rates & volume metrics
+
 ### 🔍 [AI Website Audit Tool](https://github.com/AqeelDEV/website-audit-tool)
 > Next.js 14 app powered by OpenRouter (Gemini) for intelligent site analysis
 
@@ -84,7 +96,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqeelDEV&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF87&text_color=ffffff" width="380" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AqeelDEV&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF87&icon_color=00FF87&text_color=ffffff" width="420" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AqeelDEV&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF87&text_color=ffffff" width="380" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AqeelDEV&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF87&ring=00FF87&fire=00FF87&currStreakLabel=00FF87" width="420" />
 
