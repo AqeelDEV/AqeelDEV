@@ -84,9 +84,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqeelDEV&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF87&text_color=ffffff" width="380" />
+<img src="https://github-readme-stats.vercel.app/api?username=AqeelDEV&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF87&icon_color=00FF87&text_color=ffffff&count_private=true" width="420" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AqeelDEV&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF87&ring=00FF87&fire=00FF87&currStreakLabel=00FF87" width="420" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AqeelDEV&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF87&text_color=ffffff" width="360" />
 
 </div>
 
