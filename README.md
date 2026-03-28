@@ -10,10 +10,7 @@
 
 ## 🪐 About Me
 
-```
-Second-year CS undergrad at IIT Colombo | Full-Stack Developer | AI/ML Enthusiast
-Building civic tech for Sri Lanka 🇱🇰
-```
+> Second-year CS undergrad at IIT Colombo · Full-Stack Developer · AI/ML Enthusiast · Building civic tech for Sri Lanka 🇱🇰
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AqeelDEV&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF87&icon_color=00FF87&text_color=ffffff" width="420" />
 
@@ -67,15 +64,7 @@ Building civic tech for Sri Lanka 🇱🇰
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/AqeelDEV/SafeLanka-Application"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AqeelDEV&repo=safelanka&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF87&icon_color=00FF87&text_color=ffffff" />
-</a>
-
-</div>
-
-### 🛡️ SafeLanka
+### 🛡️ [SafeLanka](https://github.com/AqeelDEV/SafeLanka-Application)
 > A full-stack civic safety platform for Sri Lanka built with Flutter & NestJS
 
 - 48 screens across **Citizen**, **Traffic Police**, and **Crime Police** roles
@@ -83,7 +72,7 @@ Building civic tech for Sri Lanka 🇱🇰
 - PayHere payment gateway with tokenization & CI/CD via GitHub Actions + Railway
 - 17-entity MySQL database with TypeORM · Trilingual SMS notifications
 
-### 🔍 AI Website Audit Tool
+### 🔍 [AI Website Audit Tool](https://github.com/AqeelDEV/website-audit-tool)
 > Next.js 14 app powered by OpenRouter (Gemini) for intelligent site analysis
 
 - Built with **Cheerio** for scraping + **OpenRouter** for AI analysis
@@ -115,9 +104,9 @@ Building civic tech for Sri Lanka 🇱🇰
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AqeelDEV)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqeellarif32@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF87?style=for-the-badge&logo=vercel&logoColor=black)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqeel-larif-436432287/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqeellarif32@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AqeelDEV)
 
 </div>
 
