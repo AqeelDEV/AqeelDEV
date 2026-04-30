@@ -12,7 +12,7 @@
 
 > Second-year CS undergrad at IIT Colombo · Full-Stack Developer · AI/ML Enthusiast · Building civic tech for Sri Lanka 🇱🇰
 
-- 🔭 I'm currently working on **SafeLanka** — a Flutter civic safety app launching on Google Play store
+- 🔭 I'm currently working on **SafeLanka** — a Flutter civic safety app launching on Google Play 
 - 💼 Freelance Full-Stack Developer at **TotalTechSolutions** — building an e-commerce platform with AI-powered recommendations
 - 👥 I'm looking to collaborate on **AI/ML projects and open-source full-stack apps**
 - 🤝 I'm looking for help with **Software Engineering & AI/ML internship opportunities**
