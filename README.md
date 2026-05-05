@@ -12,12 +12,12 @@
 
 > Second-year CS undergrad at IIT Colombo · Full-Stack Developer · AI/ML Enthusiast · Building civic tech for Sri Lanka 🇱🇰
 
-- 🔭 I'm currently working on **SafeLanka** — a Flutter civic safety app launching on Google play store
-- 💼 Freelance Full-Stack Developer at **TotalTechSolutions** — building an e-commerce platform with AI-powered recommendations
+- 🔭 I'm currently working on **SafeLanka** - a Flutter civic safety app launching on Google play store
+- 💼 Freelance Full-Stack Developer at **TotalTechSolutions** - building an e-commerce platform with AI-powered recommendations
 - 👥 I'm looking to collaborate on **AI/ML projects and open-source full-stack apps**
 - 🤝 I'm looking for help with **Software Engineering & AI/ML internship opportunities**
 - 🌱 Currently pursuing a **Professional Certificate in AI** at IIT & learning **Deep Learning with PyTorch**
-- 🏛️ **IEEE Member** — Computer Society & Robotics and Automation Society
+- 🏛️ **IEEE Member** - Computer Society & Robotics and Automation Society
 - 🌍 Fluent in **English, Sinhala & Tamil** · Learning Malay & Arabic
 - 💬 Ask me about **Flutter, NestJS, Next.js, or MMA fighting**
 - ⚡ Fun fact: **3 years of competitive MMA & K1, 2x Bronze Medal swimmer, and I code between training sessions**
